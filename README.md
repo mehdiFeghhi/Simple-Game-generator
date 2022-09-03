@@ -1,3 +1,3 @@
-# Simple game console by C
+# Simple game generator by C
 
-In this project I write gameconsole by C language .
+In this project I write game generator by C language .
